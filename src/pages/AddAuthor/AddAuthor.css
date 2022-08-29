@@ -1,0 +1,17 @@
+.labe {
+  cursor: pointer;
+  width: 328px;
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 36px;
+  color: #ffffff;
+  padding: 5px;
+  background: #152540;
+  border-radius: 99px;
+  text-align: center;
+}
+.inp {
+  display: none;
+}
